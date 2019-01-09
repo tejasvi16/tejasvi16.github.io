@@ -9,11 +9,6 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-
-ORM Executive 
-Digitas, Gurgaon 
-August 2013-January 2014
-
 <!-- One -->
 <section id="one">
 	<div class="inner">
@@ -35,8 +30,7 @@ August 2013-January 2014
 				<header class="major">
 					<h3>Social Media Manager</h3>
 				</header>
-				<p>Razorfish, Gurgaon</p>
-        <p>September 2015-February 2017</p>
+				<p>Razorfish, Gurgaon<br>September 2015-February 2017</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -52,8 +46,7 @@ August 2013-January 2014
 				<header class="major">
 					<h3>Social Media Community Manager</h3>
 				</header>
-				<p>Razorfish, Gurgaon</p>
-        <p>October 2014-September 2015</p>
+				<p>Razorfish, Gurgaon<br>October 2014-September 2015</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -69,8 +62,7 @@ August 2013-January 2014
 				<header class="major">
 					<h3>ORM Executive</h3>
 				</header>
-				<p>Digitas, Gurgaon</p>
-				<p>August 2013-January 2014</p>
+				<p>Digitas, Gurgaon<br>August 2013-January 2014</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
