@@ -22,20 +22,20 @@ The challenge was to leverage the increasing buzz on social media for Alto and u
 We decided to create a social media led campaign consisting of daily engagements, creative content like cartoons, celebrity associations and much more to interact with fans driving conversations around Cricket with respect to Alto as a brand.
 </p>
 
-<h3>Alto Debut</h2>
+<h3>Alto Debut</h3>
 <p>
 Alto 800 being preferred first time car buyer's car, we focused on creating conversations on first time players. Alto 800 targeted its audience and executed its plan beautifully in the digital sphere. Even before the World Cup was over, it received rave reviews and more than 50K users talking on Twitter & Facebook.
 </p>
 #AltoFirstTimer #DebutTips
 
-<h3>Chase Cricket</h2>
+<h3>Chase Cricket</h3>
 <p>
 To bring alive the spirit of Alto K10 - 'Chase Life' we devised engagements around 'chase'
 #SorrySir - The idea was to simply tweet the reason that one would give their boss for not being able to come to work the next day, so they could enjoy the WC match at home. The contest garnered a commendable response from social media ninjas, as they jostled for sharing the most creative answers.
 #K10DreamTeam - People were asked to pick their favourite players and make their own cricklet team with an interesting name! #Chaselfie - This contest prompted people to submit their selfies while wearing Blue, to support team India. #ChaseMaster - People were asked to pick the player who will help his team chase victory.
 </p>
 
-<h3>Branded Content</h2>
+<h3>Branded Content</h3>
 <p>
 Use content to spark conversations around Chase Cricket and encapsulating the Alto K10 theme of Chase Life.
 Cricket Expert - Aakash Chopra
