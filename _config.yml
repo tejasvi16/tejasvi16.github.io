@@ -6,3 +6,7 @@ remote_theme: andrewbanchich/forty-jekyll-theme
 title: Tejasvi Khurana
 description: Social Media Manager
 email: tejasvi16@gmail.com
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
