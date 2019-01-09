@@ -8,8 +8,9 @@ author: null
 show_tile: false
 ---
 
-<header>
-  About Me
+
+<header class="major">
+  <h2>About Me</h2>
 </header>
 <p>
 I’m passionate about creating two-way conversations between brands and customers. I have over three years of experience in social media marketing for top automobile and pharma brands. 
