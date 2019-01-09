@@ -3,10 +3,21 @@
 remote_theme: andrewbanchich/forty-jekyll-theme
 
 # site settings
+
+baseurl: # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
 title: Tejasvi
 subtitle: Khurana
 description: A Digital Marketing enthusiast.<br>Social Media Manager by profession.<br>Aspiring to dive into Client Servicing.
 email: tejasvi16@gmail.com
+author:
+street_address:
+city: Noida
+state: Delhi/NCR
+zip_code:
+country: India
+phone: (+91) xxxxxxxxxx
+
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
