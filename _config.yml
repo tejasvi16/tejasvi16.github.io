@@ -11,3 +11,15 @@ email: tejasvi16@gmail.com
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/in/tejasvi-khurana-21849553/
+pinterest_url:
+slack_url:
+twitter_url:
