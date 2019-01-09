@@ -1,6 +1,8 @@
+# jekyll theme
 #theme: jekyll-theme-cayman
 remote_theme: andrewbanchich/forty-jekyll-theme
 
-#site-settings
+# site settings
 title: Tejasvi Khurana
+description: Social Media Manager
 email: tejasvi16@gmail.com
