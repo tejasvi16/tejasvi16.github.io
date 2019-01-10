@@ -1,6 +1,6 @@
 ---
-title: Awards and Media Mentions
 layout: landing
+title: Awards and Media Mentions
 description: null
 image: assets/images/pic07.jpg
 order: 3
