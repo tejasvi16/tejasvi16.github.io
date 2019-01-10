@@ -12,7 +12,7 @@ nav-menu: true
 <!-- One -->
 <section id="one" class="spotlights">
 	<section>
-		<a href="_campaigns/2015-01-01.Alto_ICC_World_Cup_Campaign.html" class="image">
+		<a href="" class="image">
 			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
