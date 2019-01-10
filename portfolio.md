@@ -1,48 +1,32 @@
 ---
-layout: post
+layout: landing
 title: Portfolio
 description: Samples of my most popular social media campaigns.
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
-<header>
-  <h2>Alto ICC World Cup Campaign 2015</h2>
-</header>
 
-<h2>Challenge</h2>
-<p>
-Alto is the top selling car in India since 15 years. Maruti Suzuki felt that Cricket World Cup was the perfect opportunity to interact with the young audience and indulge into a conversation with them around the World Cup.
-</p>
-<p>
-The challenge was to leverage the increasing buzz on social media for Alto and use that to strengthen the brand messaging in a natural way adding positive mileage to the brand.
-</p>
+<!-- Main -->
+<div id="main">
 
-<h2>Execution</h2>
-<p>
-We decided to create a social media led campaign consisting of daily engagements, creative content like cartoons, celebrity associations and much more to interact with fans driving conversations around Cricket with respect to Alto as a brand.
-</p>
+<!-- One -->
+<section id="one" class="spotlights">
+	<section>
+		<a href="2015-01-01.Alto_ICC_World_Cup_Campaign.html" class="image">
+			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Alto ICC World Cup Campaign 2015</h3>
+				</header>
+        <p>xxx xxx xxx</p>
+				<ul class="actions">
+					<li><a href="2015-01-01.Alto_ICC_World_Cup_Campaign.html" class="button">See more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
 
-<h3>Alto Debut</h3>
-<p>
-Alto 800 being preferred first time car buyer's car, we focused on creating conversations on first time players. Alto 800 targeted its audience and executed its plan beautifully in the digital sphere. Even before the World Cup was over, it received rave reviews and more than 50K users talking on Twitter & Facebook.
-</p>
-#AltoFirstTimer #DebutTips
-
-<h3>Chase Cricket</h3>
-<p>
-To bring alive the spirit of Alto K10 - 'Chase Life' we devised engagements around 'chase'
-#SorrySir - The idea was to simply tweet the reason that one would give their boss for not being able to come to work the next day, so they could enjoy the WC match at home. The contest garnered a commendable response from social media ninjas, as they jostled for sharing the most creative answers.
-#K10DreamTeam - People were asked to pick their favourite players and make their own cricklet team with an interesting name! #Chaselfie - This contest prompted people to submit their selfies while wearing Blue, to support team India. #ChaseMaster - People were asked to pick the player who will help his team chase victory.
-</p>
-
-<h3>Branded Content</h3>
-<p>
-Use content to spark conversations around Chase Cricket and encapsulating the Alto K10 theme of Chase Life.
-Cricket Expert - Aakash Chopra
-Satish Acharya - Before and after India's every match, Alto K10 released a caricature-styled cartoon that centered on India and its opponents, as well as the #Chase theme. These were created for them by the famous cartoonist Satish Acharya.
-</p>
-
-<h2>Result</h2>
-<p>
-xxx xxx xxx
-</p>
+</div>
