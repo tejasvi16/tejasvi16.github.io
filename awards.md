@@ -3,6 +3,7 @@ title: Awards and Media Mentions
 layout: landing
 description: null
 image: assets/images/pic07.jpg
+order: 3
 nav-menu: true
 ---
 
