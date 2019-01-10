@@ -3,6 +3,7 @@ layout: landing
 title: Portfolio
 description: Samples of my most popular social media campaigns.
 image: assets/images/pic11.jpg
+order: 2
 nav-menu: true
 ---
 
