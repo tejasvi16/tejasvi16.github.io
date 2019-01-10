@@ -17,7 +17,9 @@ state: UP
 zip_code: 201301
 country: India
 phone: (+91) xxxxxxxxxx
-
+collections:
+  campaigns:
+    output: true
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
