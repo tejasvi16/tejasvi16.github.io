@@ -36,3 +36,9 @@ linkedin_url: https://www.linkedin.com/in/tejasvi-khurana-21849553/
 pinterest_url:
 slack_url:
 twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
