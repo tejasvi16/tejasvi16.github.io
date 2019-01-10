@@ -1,4 +1,5 @@
 ---
+permalink: /awards
 title: Awards and Media Mentions
 layout: landing
 description: null
