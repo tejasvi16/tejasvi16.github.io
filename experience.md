@@ -1,6 +1,6 @@
 ---
-title: Experience
 layout: landing
+title: Experience
 description: '3+ Years'
 image: assets/images/pic07.jpg
 order: 1
