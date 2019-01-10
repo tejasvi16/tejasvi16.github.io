@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
         <p>xxx xxx xxx</p>
 				<ul class="actions">
-					<li><a href="_campaigns/2015-01-01.Alto_ICC_World_Cup_Campaign.html" class="button">See more</a></li>
+					<li><a href="campaigns/Alto" class="button">See more</a></li>
 				</ul>
 			</div>
 		</div>
